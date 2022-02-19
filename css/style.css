@@ -47,5 +47,6 @@ input[type="text"] {
 .content{
     background-color: rgb(60, 60, 60);
     padding: 15px;
+    border-radius: 5px;
 
 }
